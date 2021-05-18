@@ -1,0 +1,41 @@
+body 
+{
+	background-color: #FEE3AB;
+	margin-bottom: 2cm;
+}
+
+h1 
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:36px;
+color:#000000;
+text-align:center;
+font-weight: bolder;
+}
+
+h2 
+{
+text-align:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:large;
+color:#000000;  
+}
+
+p
+{
+text-align:justify;
+font-family:"ÐÂËÎÌå";
+font-size:large;
+color:#000000;
+margin-left:inherit;
+font-weight: bold;
+text-indent:1.3cm;
+line-height: 11mm;
+	
+}
+
+ul
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:large;
+}
